@@ -1,6 +1,6 @@
 # Interview HW
 
-## Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
+## Problem 1: Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
 
 ```
 class Solution:
